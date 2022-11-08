@@ -1,5 +1,5 @@
 # proyecto-DAW
-Repositorio para el MEJOR proyecto integrado de 2º de DAW
+Repositorio para el MÁS MEJOR proyecto integrado de 2º de DAW
 
 ## Seguimiento
 
